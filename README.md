@@ -55,4 +55,4 @@
 
 ## On peut aussi me retrouver sur ces challenges
 
-[![https://www.codingame.com](https://img.shields.io/badge/CodinGame-Lvl_7_/_XP_194-f2bb13?style=for-the-badge&logo=CodinGame)](https://www.codingame.com)
+[![https://www.codingame.com/profile/7f659470b98a02145ac0f878f24aa9ce3660993](https://img.shields.io/badge/CodinGame-Lvl_7_/_XP_194-f2bb13?style=for-the-badge&logo=CodinGame)](https://www.codingame.com/profile/7f659470b98a02145ac0f878f24aa9ce3660993)
