@@ -55,4 +55,7 @@
 
 ## On peut aussi me retrouver sur ces challenges
 
+
+![](https://www.codewars.com/users/Alekiel42/badges/large)
+
 [![https://www.codingame.com/profile/7f659470b98a02145ac0f878f24aa9ce3660993](https://img.shields.io/badge/CodinGame-Lvl_7_/_XP_194-f2bb13?style=for-the-badge&logo=CodinGame)](https://www.codingame.com/profile/7f659470b98a02145ac0f878f24aa9ce3660993)
