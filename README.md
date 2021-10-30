@@ -24,7 +24,8 @@
 
 |Front End|
 |--|
-|![](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=JavaScript) ![](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=html5) ![](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3)
+|![](https://img.shields.io/badge/-Vue.js-05122A?style=plastic&logo=Vue.js) ![](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=html5) ![](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3)
+![](https://img.shields.io/badge/-Javascript-05122A?style=plastic&logo=JavaScript) ![](https://img.shields.io/badge/-React-05122A?style=plastic&logo=React)
 ![](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva) ![](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp) ![](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=AdobePhotoshop)|
 
 |Déploiement|
