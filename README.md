@@ -4,8 +4,9 @@
 
 <br />
 
-- 🎓 En formation à l'école O'Clock (Développeur web fullstack - spé data & API)
-- 📰 Mon [portfolio](https://alexandra-bercoff.herokuapp.com/) est pour l'instant hébergé sur Heroku (désolée pour le temps de chargement)
+- 👩‍🎓 Titre Professionel Développeur Web et Web Mobile (RNCD niveau 5)
+- 🎓 Ecole O'Clock (Développeur web fullstack - spé data & API) : 798 heures de formation intensive
+- 📰 Mon [portfolio](http://alexandrabercoff.com/) 
 - 🔬 Le back j'adore, mais j'explore React et Vue.Js en ce moment 
 - 💾 Fun fact : j'ai créé mon premier site web quand j'étais ado en 98 grâce au livre "Se former en un jour : créer son site web"
 - 🔎 Quand je ne code pas, je participe à des escape games. Allez voir mon profil The escapers sur l'[excellent site](https://www.the-escapers.com/profil/alexandra-b) codé par un ami dev' !
