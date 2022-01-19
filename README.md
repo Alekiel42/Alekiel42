@@ -4,7 +4,7 @@
 
 <br />
 
-- 👩‍🎓 Titre Professionel Développeur Web et Web Mobile (RNCD niveau 5)
+- 👩‍🎓 Titre Professionel Développeur Web et Web Mobile (RNCP niveau 5)
 - 🎓 Ecole O'Clock (Développeur web fullstack - spé data & API) : 798 heures de formation intensive
 - 📰 Mon [portfolio](http://alexandrabercoff.com/) 
 - 🔬 Le back j'adore, mais j'explore React et Vue.Js en ce moment 
