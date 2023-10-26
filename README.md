@@ -6,7 +6,7 @@
 
 - 👩‍🎓 Titre Professionel Développeur Web et Web Mobile (RNCP niveau 5)
 - 🎓 Ecole O'Clock (Développeur web fullstack - spé data & API) : 798 heures de formation intensive
-- 📰 Mon [portfolio](http://alexandrabercoff.com/) 
+- 📰 Mon [portfolio](http://alexandrabercoff.fr/) 
 - 💾 Fun fact : j'ai créé mon premier site web quand j'étais ado en 98 grâce au livre "Se former en un jour : créer son site web"
 - 🔎 Quand je ne code pas, je participe à des escape games. Allez voir mon profil The escapers sur l'[excellent site](https://www.the-escapers.com/profil/alexandra-b) codé par un ami dev' !
 
